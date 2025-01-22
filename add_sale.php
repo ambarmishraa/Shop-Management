@@ -109,7 +109,7 @@ $result = $conn->query($sql);
 </head>
 
 <body>
-    <h1>Record a Sale</h1>
+    <h1>Sell Item</h1>
     <form method="POST">
         <label for="product_id">Select Product:</label>
         <select id="product_id" name="product_id" required>

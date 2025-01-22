@@ -70,7 +70,7 @@
     <a class="icon-styling" href="add_product.php"><img src="./assets/add-product.png" alt="add-product"/><span class="span-styling">Add Product</span></a>
         <a class="icon-styling" href="view_products.php"><img src="./assets/view-product.png" alt="View-Products"/><span class="span-styling">View Product</span></a>
         <a class="icon-styling" href="update_stock.php"><img src="./assets/update-product.png" alt="Update Stock"/><span class="span-styling">Update Stock</span></a>
-        <a class="icon-styling" href="add_sale.php"><img src="./assets/add-sale.png" alt="Add Sale"/><span class="span-styling">Add Sale</span></a>
+        <a class="icon-styling" href="add_sale.php"><img src="./assets/add-sale.png" alt="Add Sale"/><span class="span-styling">Sell Item</span></a>
         <a class="icon-styling" href="view_sales.php"><img src="./assets/view-sale.png" alt="View Sales"/><span class="span-styling">View Sale</span></a>
     </div>
 
